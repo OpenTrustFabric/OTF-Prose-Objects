@@ -8,4 +8,4 @@ Customer.=[OTF/U/Who/acme_incorporated.md]
 
 Provider.=[OTF/U/Who/quake_incorporated.md]
 
-=[G/Agt-Form-CmA/US/Frame/Customer-Provider/0.md]
+=[OTF/Agt-Form-CmA/US/Frame/Customer-Provider/0.md]

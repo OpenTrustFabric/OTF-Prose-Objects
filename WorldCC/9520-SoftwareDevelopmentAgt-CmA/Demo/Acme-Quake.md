@@ -12,4 +12,4 @@ NameOfPrincipalDeveloperOrDevelopers=Norbert Wiener and Seymour Papert
 
 =[OTF/WorldCC/9520-SoftwareDevelopmentAgt-CmA/Sec/0.md]  
 
-=[G/Agt-MasterService-CmA/Demo/Acme-Quake/Agreement.md]
+=[OTF/Agt-MasterService-CmA/Demo/Acme-Quake/Agreement.md]

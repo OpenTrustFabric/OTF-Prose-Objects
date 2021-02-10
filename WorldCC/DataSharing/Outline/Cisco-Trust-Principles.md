@@ -5,4 +5,4 @@ Transparent.Sec=Transparent.Sec
 
 Accountable.Sec=Accountable.Sec
 
-=[G/Cisco-Trust-Principles/Sec/0.md]
+=[OTF/Cisco-Trust-Principles/Sec/0.md]

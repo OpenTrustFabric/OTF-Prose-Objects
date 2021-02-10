@@ -8,6 +8,6 @@ Relate.sec=<ol><li>{RiskOfLoss.Sec}</li><li>{Guarantee.Sec}</li><li>{Defect.Sec}
 
 Misc.sec=<ol><li>{Amend.Sec}</li><li>{Subcontract.Sec}</li><li>{Law.Sec}</li><li>{Dispute.Sec}</li><li>{Notice.Sec}</li><li>{DocumentPrecedence.Sec}</li><li>{Counterpart.Sec}</li><li>{Other.Sec}</li></ol>
 
-=[G/Agt-Form-CmA/US/Outline/0.md]	
+=[OTF/Agt-Form-CmA/US/Outline/0.md]	
 
 Doc.Ti=Product Supply Contract

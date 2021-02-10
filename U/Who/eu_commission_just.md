@@ -13,4 +13,4 @@ Phone=+32 229-91111
 
 Website.URL=https://ec.europa.eu/info/departments/justice-and-consumers 
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[OTF/Agt-Form-CmA/00/ID/Entity/0.md]

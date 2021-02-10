@@ -14,6 +14,6 @@ Adr.Street.Name=Broadway
 
 Adr.Zip=10271
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[OTF/Agt-Form-CmA/00/ID/Entity/0.md]
 
 Adr.=[OTF/U/Place/US/NY/New_York/New_York/Geo]

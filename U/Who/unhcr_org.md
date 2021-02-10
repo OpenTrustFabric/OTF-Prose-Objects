@@ -10,6 +10,6 @@ Adr.Nation=Suisse
 
 Adr.ST=</i>
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[OTF/Agt-Form-CmA/00/ID/Entity/0.md]
 
 

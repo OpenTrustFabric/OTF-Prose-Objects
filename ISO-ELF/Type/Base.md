@@ -12,7 +12,7 @@ FR.Personality.type.a=un {ELF.Type.Name.Local}
 
 Personality.type={ELF.Country.Sub.Name} {ELF.Type.Name.Local}
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[OTF/Agt-Form-CmA/00/ID/Entity/0.md]
 
 Show.1.Ti=ISO-ELF Parameters
 
